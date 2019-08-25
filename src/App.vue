@@ -1,28 +1,56 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Navbar/>
+    <router-view/>
+    <Footer/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from './components/Navbar.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Navbar,
+    Footer
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Crimson+Pro&display=swap');
+
+  html, body{
+    margin: 0;
+    padding: 0;
+  }
+
+  .container{
+    width: 80%;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .button{
+    color:  #ff8c00;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    border: 2px #ff8c00 solid;
+    padding: 1em 2em;
+  }
+  hr{
+    margin-top: 3em;
+    border: 1px solid #ff8c00;
+  }
+
+  .center{
+    text-align: center;
+  }
+
+  .black{
+    color: black;
+  }
 </style>
