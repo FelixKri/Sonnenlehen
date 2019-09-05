@@ -53,4 +53,14 @@ export default {
   .black{
     color: black;
   }
+
+  @media only screen and (max-width: 800px){
+    p{
+      font-size: 1.4em !important;
+      line-height: 1.2em !important;
+    }
+    .container{
+        width: 90% !important;
+    }
+  }
 </style>

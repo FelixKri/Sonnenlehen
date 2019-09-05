@@ -2,8 +2,8 @@
     <main>
       <section class="image">
         <div class="container">
-          <h2> Haus </h2>
-          <h1> SONNENLEHEN </h1>
+          <h2 class="sub-heading"> Haus </h2>
+          <h1 class="main-heading"> SONNENLEHEN </h1>
           <h2 style="text-align: right;"> Großgmain </h2>
         </div>
       </section>
@@ -204,6 +204,12 @@
       .right-text{
         float: none;
         width: 100%;
+      }
+    }
+
+    @media only screen and (max-width: 800px){
+      .main-heading{
+        font-size: 2.4em !important;
       }
     }
     </style>

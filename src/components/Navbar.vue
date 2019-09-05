@@ -1,16 +1,16 @@
 <template>
    <nav>
-        <div class="container">
+        <div style="width: 80%; margin: 0 auto;">
             <a href="/" class="logo-wrapper">
                 <h1 style="margin: 16px 0;"> Haus Sonnenlehen </h1>
             </a>
             <ul class="nav-list">
-                <li><a href="/">Start</a></li>
                 <li><a href="/house">Das Haus</a></li>
                 <li><a href="/pricing">Preise & Buchung</a></li>
                 <li><a href="/sights">Lokale Sehenswürdigkeiten</a></li>
                 <li><a href="/contact">Kontakt</a></li>
                 <li><a href="/availiability">Verfügbarkeit</a></li>
+                <li><a href="/gallery">Fotogalerie</a></li>
             </ul>
 
             <div class="hamburger" @click="expandNav()">
@@ -22,12 +22,12 @@
         <div class="nav-overlay" id="overlay">
             <span class="x-icon" @click="minimizeNav()">X</span>
             <ul class="overlay-list">
-                <li><a href="/">Start</a></li>
                 <li><a href="/house">Das Haus</a></li>
                 <li><a href="/pricing">Preise & Buchung</a></li>
                 <li><a href="/sights">Lokale Sehenswürdigkeiten</a></li>
                 <li><a href="/contact">Kontakt</a></li>
                 <li><a href="/availiability">Verfügbarkeit</a></li>
+                <li><a href="/gallery">Fotogalerie</a></li>
             </ul>
         </div>
     </nav>
