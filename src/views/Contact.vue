@@ -16,21 +16,16 @@
         <textarea name="message">Nachricht</textarea>
       </div>
       <div class="form-group">
-        <input type="submit" name="submit" value="Senden" class="button-submit"></input>
+        <input type="submit" name="submit" value="Senden" class="button-submit">
       </div>
     </form>
   </div>
 </template> 
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-import Sight from '@/components/Sight.vue'
 export default {
   name: 'home',
   components: {
-    HelloWorld,
-    Sight
   },
 }
 </script>
@@ -88,7 +83,7 @@ export default {
 
       margin: 0.5em 0;
       padding: 0.5em 0;
-    	padding-left: 1em;
+      padding-left: 1em;
       
       border: none;
       border-bottom: 2px solid #2B2D2F;

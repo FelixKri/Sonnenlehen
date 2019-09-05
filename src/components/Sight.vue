@@ -1,7 +1,7 @@
 <template>
 
    <div class="sight">
-        <img v-bind:src="imagePath" v-bind:alt="imagePath"></img>
+        <img v-bind:src="imagePath" v-bind:alt="imagePath">
         <h1> {{title}} </h1>
         <div class="text">
             <p v-html="content"></p>

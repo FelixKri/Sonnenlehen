@@ -7,7 +7,7 @@
             <ul class="nav-list">
                 <li><a href="/house">Das Haus</a></li>
                 <li><a href="/pricing">Preise & Buchung</a></li>
-                <li><a href="/sights">Lokale Sehenswürdigkeiten</a></li>
+                <li><a href="/sights">Sehenswürdigkeiten</a></li>
                 <li><a href="/contact">Kontakt</a></li>
                 <li><a href="/availiability">Verfügbarkeit</a></li>
                 <li><a href="/gallery">Fotogalerie</a></li>
@@ -66,7 +66,6 @@
 
     .overlay-list{
         list-style-type: none;
-        font-size: 1.5em;
         margin-top: 20vh;
     }
 
@@ -111,6 +110,7 @@
         display: inline-block;
         list-style: none;
         line-height: 2.5em;
+        font-size: 0.9em;
         margin: 0 1em;
     }
 
