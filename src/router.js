@@ -46,6 +46,11 @@ export default new Router({
       path: '/availiability',
       name: 'availiability',
       component: () => import('./views/Availiability.vue')
+    },
+    {
+      path: '/gallery',s
+      name: 'gallery',
+      component: () => import('./views/Gallery.vue')
     }
   ]
 })

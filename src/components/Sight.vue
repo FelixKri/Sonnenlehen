@@ -50,7 +50,7 @@
 
     @media only screen and (max-width: 1200px){
       .sight{
-          width: 80%;
+          width: 90%;
           margin: 0 auto;
           height: auto;
       }

@@ -61,4 +61,5 @@ export default {
         font-family: 'Open Sans', sans-serif;
         color: black;
     }
+  
 </style>

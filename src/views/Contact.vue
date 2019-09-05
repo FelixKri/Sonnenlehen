@@ -126,4 +126,9 @@ export default {
       cursor: pointer;
 
     }
+    @media only screen and (max-width: 800px){
+      .contact form{
+        width: 80%;
+      }
+    }
 </style>
