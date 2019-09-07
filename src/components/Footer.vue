@@ -3,13 +3,18 @@
     <div class="container">
         <h1> Bereit zu buchen? </h1>
         <a href="/contact" class="button">Zur Buchung</a>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
     </div>
    </footer>
 </template>
 
 <style>
     footer{
-        height: 35vh;
+        min-height: 35vh;
         width:100%;
         background-color: #2B2D2F;
     }
