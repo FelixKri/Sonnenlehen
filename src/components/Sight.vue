@@ -14,13 +14,15 @@
     .sight{
         width: 100%;
         margin: 1em 0;
-        height: 35vh;
         position: relative;
+        min-height: 500px;
+        margin-bottom: 100px;
     }
 
     .sight img{
         height: 80%;
         max-height: 450px;
+        min-height: 400px;
         width: 55%;
         float: left;
     }
