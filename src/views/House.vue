@@ -63,6 +63,9 @@
     font-family: 'Open Sans', sans-serif;
     color: black;
   }
+  .overlay-list li a{
+        color: white !important;
+    }
   p{
     color: black;
     font-size: 1.6em;

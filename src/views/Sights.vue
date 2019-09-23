@@ -59,4 +59,7 @@ export default {
         color: black;
     }
   
+    .overlay-list li a{
+        color: white !important;
+    }
 </style>

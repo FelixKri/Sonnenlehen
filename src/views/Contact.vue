@@ -121,9 +121,13 @@ export default {
       cursor: pointer;
 
     }
-    @media only screen and (max-width: 800px){
+    @media only screen and (max-width: 1100px){
       .contact form{
         width: 80%;
+      }
+
+      .button-submit{
+        width: 100% !important;  
       }
     }
 </style>

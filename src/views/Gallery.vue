@@ -21,34 +21,34 @@
                 <img :src="require('@/assets/gallery/IMG_5976.jpg')" class="gallery__img" alt="Image 6">
             </figure>
             <figure class="gallery__item gallery__item--7">
-                <img :src="require('@/assets/gallery/IMG_5977.jpg')" class="gallery__img" alt="Image 1">
+                <img :src="require('@/assets/gallery/IMG_5979.jpg')" class="gallery__img" alt="Image 1">
             </figure>
-            <figure class="gallery__item gallery__item--8">
-                <img :src="require('@/assets/gallery/IMG_5979.jpg')" class="gallery__img" alt="Image 2">
+            <figure class="gallery__item gallery__item--8" >
+                <img :src="require('@/assets/gallery/IMG_5980.jpg')" class="gallery__img" alt="Image 2">
             </figure>
             <figure class="gallery__item gallery__item--9">
-                <img :src="require('@/assets/gallery/IMG_5980.jpg')" class="gallery__img" alt="Image 3">
+                <img :src="require('@/assets/gallery/IMG_5981.jpg')" class="gallery__img" alt="Image 3">
             </figure>
             <figure class="gallery__item gallery__item--10">
-                <img :src="require('@/assets/gallery/IMG_5981.jpg')" class="gallery__img" alt="Image 4">
+                <img :src="require('@/assets/gallery/IMG_5986.jpg')" class="gallery__img" alt="Image 4">
             </figure>
             <figure class="gallery__item gallery__item--11">
-                <img :src="require('@/assets/gallery/IMG_5984.jpg')" class="gallery__img" alt="Image 5">
+                <img :src="require('@/assets/gallery/IMG_5989.jpg')" class="gallery__img" alt="Image 5">
             </figure>
             <figure class="gallery__item gallery__item--12">
-                <img :src="require('@/assets/gallery/IMG_5989.jpg')" class="gallery__img" alt="Image 6">
+                <img :src="require('@/assets/gallery/IMG_5990.jpg')" class="gallery__img" alt="Image 6">
             </figure>
              <figure class="gallery__item gallery__item--13">
-                <img :src="require('@/assets/gallery/IMG_5990.jpg')" class="gallery__img" alt="Image 1">
+                <img :src="require('@/assets/gallery/IMG_5991.jpg')" class="gallery__img" alt="Image 1">
             </figure>
             <figure class="gallery__item gallery__item--14">
-                <img :src="require('@/assets/gallery/IMG_6000.jpg')" class="gallery__img" alt="Image 2">
+                <img :src="require('@/assets/gallery/IMG_5997.jpg')" class="gallery__img" alt="Image 2">
             </figure>
             <figure class="gallery__item gallery__item--15">
-                <img :src="require('@/assets/gallery/IMG_6002.jpg')" class="gallery__img" alt="Image 3">
+                <img :src="require('@/assets/gallery/IMG_5998.jpg')" class="gallery__img" alt="Image 3">
             </figure>
             <figure class="gallery__item gallery__item--16">
-                <img :src="require('@/assets/gallery/IMG_6007.jpg')" class="gallery__img" alt="Image 4">
+                <img :src="require('@/assets/gallery/IMG_6011.jpg')" class="gallery__img" alt="Image 4">
             </figure>
             <figure class="gallery__item gallery__item--17">
                 <img :src="require('@/assets/gallery/IMG_6013.jpg')" class="gallery__img" alt="Image 5">
@@ -56,55 +56,55 @@
         </div>
         <div class="gallery">
             <figure class="gallery__item gallery__item--1">
-                <img :src="require('@/assets/gallery/IMG_5964.jpg')" class="gallery__img" alt="Image 1">
+                <img :src="require('@/assets/gallery/IMG_6024.jpg')" class="gallery__img" alt="Image 1">
             </figure>
             <figure class="gallery__item gallery__item--2">
-                <img :src="require('@/assets/gallery/IMG_5966.jpg')" class="gallery__img" alt="Image 2">
+                <img :src="require('@/assets/gallery/IMG_6029.jpg')" class="gallery__img" alt="Image 2">
             </figure>
             <figure class="gallery__item gallery__item--3">
-                <img :src="require('@/assets/gallery/IMG_5969.jpg')" class="gallery__img" alt="Image 3">
+                <img :src="require('@/assets/gallery/IMG_6034.jpg')" class="gallery__img" alt="Image 3">
             </figure>
             <figure class="gallery__item gallery__item--4">
-                <img :src="require('@/assets/gallery/IMG_5971.jpg')" class="gallery__img" alt="Image 4">
+                <img :src="require('@/assets/gallery/IMG_6040.jpg')" class="gallery__img" alt="Image 4">
             </figure>
             <figure class="gallery__item gallery__item--5">
-                <img :src="require('@/assets/gallery/IMG_5972.jpg')" class="gallery__img" alt="Image 5">
+                <img :src="require('@/assets/gallery/IMG_6853.jpg')" class="gallery__img" alt="Image 5">
             </figure>
             <figure class="gallery__item gallery__item--6">
-                <img :src="require('@/assets/gallery/IMG_5976.jpg')" class="gallery__img" alt="Image 6">
+                <img :src="require('@/assets/gallery/IMG_6855.jpg')" class="gallery__img" alt="Image 6">
             </figure>
             <figure class="gallery__item gallery__item--7">
-                <img :src="require('@/assets/gallery/IMG_5977.jpg')" class="gallery__img" alt="Image 1">
+                <img :src="require('@/assets/gallery/IMG_6857.jpg')" class="gallery__img" alt="Image 1">
             </figure>
             <figure class="gallery__item gallery__item--8">
-                <img :src="require('@/assets/gallery/IMG_5979.jpg')" class="gallery__img" alt="Image 2">
+                <img :src="require('@/assets/gallery/IMG_6880.jpg')" class="gallery__img" alt="Image 2">
             </figure>
             <figure class="gallery__item gallery__item--9">
-                <img :src="require('@/assets/gallery/IMG_5980.jpg')" class="gallery__img" alt="Image 3">
+                <img :src="require('@/assets/gallery/IMG_7109.jpg')" class="gallery__img" alt="Image 3">
             </figure>
             <figure class="gallery__item gallery__item--10">
-                <img :src="require('@/assets/gallery/IMG_5981.jpg')" class="gallery__img" alt="Image 4">
+                <img :src="require('@/assets/gallery/IMG_7791.jpg')" class="gallery__img" alt="Image 4">
             </figure>
             <figure class="gallery__item gallery__item--11">
-                <img :src="require('@/assets/gallery/IMG_5984.jpg')" class="gallery__img" alt="Image 5">
+                <img :src="require('@/assets/gallery/IMG_7795.jpg')" class="gallery__img" alt="Image 5">
             </figure>
             <figure class="gallery__item gallery__item--12">
-                <img :src="require('@/assets/gallery/IMG_5989.jpg')" class="gallery__img" alt="Image 6">
+                <img :src="require('@/assets/gallery/IMG_7796.jpg')" class="gallery__img" alt="Image 6">
             </figure>
              <figure class="gallery__item gallery__item--13">
-                <img :src="require('@/assets/gallery/IMG_5990.jpg')" class="gallery__img" alt="Image 1">
+                <img :src="require('@/assets/gallery/IMG_7800.jpg')" class="gallery__img" alt="Image 1">
             </figure>
             <figure class="gallery__item gallery__item--14">
-                <img :src="require('@/assets/gallery/IMG_6000.jpg')" class="gallery__img" alt="Image 2">
+                <img :src="require('@/assets/gallery/IMG_7831.jpg')" class="gallery__img" alt="Image 2">
             </figure>
             <figure class="gallery__item gallery__item--15">
-                <img :src="require('@/assets/gallery/IMG_6002.jpg')" class="gallery__img" alt="Image 3">
+                <img :src="require('@/assets/gallery/IMG_7832.jpg')" class="gallery__img" alt="Image 3">
             </figure>
             <figure class="gallery__item gallery__item--16">
-                <img :src="require('@/assets/gallery/IMG_6007.jpg')" class="gallery__img" alt="Image 4">
+                <img :src="require('@/assets/gallery/IMG_6898.jpg')" class="gallery__img" alt="Image 4">
             </figure>
             <figure class="gallery__item gallery__item--17">
-                <img :src="require('@/assets/gallery/IMG_6013.jpg')" class="gallery__img" alt="Image 5">
+                <img :src="require('@/assets/gallery/IMG_6884.jpg')" class="gallery__img" alt="Image 5">
             </figure>
         </div>
     </main>
@@ -138,6 +138,10 @@ export default {
     h1,h2,h3,h4,h5,h6{
         font-family: 'Open Sans', sans-serif;
         color: black;
+    }
+
+    .overlay-list li a{
+        color: white !important;
     }
 
     figure{
