@@ -4,21 +4,6 @@
     <p>
       Bitte kontaktieren Sie uns mit Ihrem Reservierungswunsch. Kommentare oder Fragen sind willkommen.
     </p>
-
-    <form>
-      <div class="form-group">
-        <input type="text" name="name" placeholder="Name">
-      </div>
-      <div class="form-group">
-        <input type="email" name="email" placeholder="E-Mail">
-      </div>
-      <div class="form-group">
-        <textarea name="message">Nachricht</textarea>
-      </div>
-      <div class="form-group">
-        <input type="submit" name="submit" value="Senden" class="button-submit">
-      </div>
-    </form>
   </div>
 </template> 
 

@@ -26,6 +26,7 @@
       <p>
         Die Küche im Obergeschoss ist komplett neu, mit Esstisch und Bürofläche. Zur Ausstattung gehören auch ein Herd mit Ceran-Kochfeld, neuer Kühlschrank, Gefrierschrank, Backofen und Mikrowelle. 
       </p>
+      <div class="img" id="kitchen"></div>
     </div>
     <div class="right-block">
       <h2> Badezimmer & WC's </h2>
@@ -41,6 +42,12 @@
         Eine detaillierte Beschreibung zu allen Schlafzimmern mit Bildern können Sie sich hier ansehen.
       </p>
       <div class="img" id="bed"></div>
+      <h2> Bar </h2>
+      <p>
+        Neben dem Wohnzimmer befindet sich auch eine kleine gemütliche Bar, in der allerlei Spiritousen und Getränke zum freien Genuss vorhanden sind!
+      </p>
+      <div class="img" id="bar"></div><br>
+      <div class="img" id="bar2"></div>
     </div>
     
     </div>
@@ -108,6 +115,17 @@
     background-image: url("../assets/bedroom.jpg");
   }
 
+  #bar{
+    background-image: url("../assets/bar.jpg");
+  }
+  #bar2{
+    background-image: url("../assets/bar2.jpg");
+  }
+
+  #kitchen{
+    background-image: url("../assets/kitchen.jpg");
+  }
+
   .container::after{
     content: '';
     display: table;
@@ -127,7 +145,7 @@
   }
 </style>
 <script>
-export default {
-  name: 'house',
-}
+  export default {
+    name: 'house',
+  }
 </script>
