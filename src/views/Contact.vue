@@ -1,9 +1,20 @@
 <template>
-  <div class="contact">
+  <div class="contact" style="width: 60%; margin: 0 auto;">
     <h1 class="center"> Kontakt & Reservieren </h1>
     <p>
-      Bitte kontaktieren Sie uns mit Ihrem Reservierungswunsch. Kommentare oder Fragen sind willkommen.
+      Bitte kontaktieren Sie uns mit Ihrem Reservierungswunsch. Kommentare oder Fragen sind auch willkommen.
     </p>
+    <p>
+      Telefon: +1 954 457-0308 oder +1 754 244-3552 <br>
+      E-Mail: contact@sonnenlehen.com <br> <br>
+      Adresse: <br>
+      Haus Sonnenlehen <br>
+      Wolfschwangweg 44 <br>
+      A-5084 Großgmain <br>
+      Österreich
+    </p>
+
+    <p> Wir sprechen Deutsch, Englisch, Französisch, Spanisch, Niederländisch, Portugiesisch. </p>
   </div>
 </template> 
 
@@ -18,6 +29,10 @@ export default {
 <style>
     nav .logo-wrapper{
         color: black;
+    }
+
+    .overlay-list li a{
+        color: white !important;
     }
 
     nav a{
