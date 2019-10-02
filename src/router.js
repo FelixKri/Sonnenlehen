@@ -16,26 +16,17 @@ export default new Router({
     {
       path: '/house',
       name: 'house',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/House.vue')
+      component: () => import('./views/House.vue')
     },
     {
       path: '/contact',
       name: 'Kontakt',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/Contact.vue')
+      component: () => import('./views/Contact.vue')
     },
     {
       path: '/sights',
       name: 'Sights',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/Sights.vue')
+      component: () => import('./views/Sights.vue')
     },
     {
       path: '/pricing',

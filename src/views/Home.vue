@@ -13,14 +13,14 @@
               <h4> CHARMANT & ELEGANT </h4>
               <div class="text-block">
                 <h2> 800 Jahre Geschichte in Großgmain </h2>
-                <p> Das Haus Sonnenlehen ist schon über 800 Jahre alt. In Jeder Ecke warten Überraschungen & Geschichten. Stöbern sie in den alten Bücherregalen, wo sich noch Erstausgaben aus 1850 finden lassen, oder schlendern Sie durch den Garten, welcher fast die Größe eines Fußballfeldes besitzt und mit Statuen und alten Bäumen geschmückt ist! </p>
+                <p> Das Haus Sonnenlehen ist schon über 800 Jahre alt. In Jeder Ecke warten Überraschungen & Geschichten. Stöbern Sie in den alten Bücherregalen, wo sich noch Erstausgaben aus 1850 finden lassen, oder schlendern Sie durch den Garten, welcher fast die Größe eines Fußballfeldes misst und mit Statuen und alten Bäumen geschmückt ist! </p>
                 <p> Das Haus wurde, so sagt man, von der Gattin des Grafen Plain, welcher in der Plainburg über Großgmain herrschte, erbaut. Als dieser aus Zorn ihr Kruzifix ins Tal warf, schwor sie ihm, dort wo das Kruzifix landen würde ein Haus für die Pilger zu erbauen. Dieses Haus heißt heute Sonnenlehen.  </p>
                 <p> Wir sehen uns daher auch nicht als Besitzer, sondern Hüter des Hauses Sonnenlehen, und freuen uns daher immer wieder über Gäste und Urlauber, welche die Tradition des Pilger-Hauses weiterführen. </p>
               </div>
               <div class="text-block">
                 <h2> Das Ideale Ferienhaus, übers ganze Jahr </h2>
-                <p>Das Haus Sonnenlehen ist das ideale Ferienhaus, übers ganze Jahr. In den umliegenden Bergen liegen hunderte Kilometer atemberaubender Wanderwege und Klettersteige. Für eine Abkühlung  nach den Aktivitäten im Sommer sorgt das Großgmainer Schwimmbad, welches nur 100m vom Haus Sonnenlehen entfernt liegt! </p>
-                <p>Auch zum Skifahren eignet sich das Haus Sonnenlehen perfekt. Skigebiete wie Lofer und Berchtesgaden sind nur eine kurze Autofahrt entfernt, und mit nur 40 Minuten Fahrt erreicht man sogar die Olympischen Pisten in [wo?].</p>
+                <p>Das Haus Sonnenlehen ist das ideale Ferienhaus, übers ganze Jahr. In den umliegenden Bergen liegen hunderte Kilometer atemberaubender Wanderwege und Klettersteige. Für eine Abkühlung  nach den Aktivitäten im Sommer sorgt das Großgmainer Schwimmbad, welches nur 100 Meter vom Haus Sonnenlehen entfernt liegt! </p>
+                <p>Auch als Unterkunft im Skiurlaub eignet sich das Haus Sonnenlehen perfekt. Skigebiete wie Lofer und Berchtesgaden sind nur eine kurze Autofahrt entfernt, und mit nur 40 Minuten Fahrt erreicht man sogar die Olympischen Pisten in [wo?].</p>
               </div>
               <div class="text-block">
                 <h2> CO2 Neutral & Umweltbewusst </h2>
@@ -29,8 +29,8 @@
             </div>
             <div class="right-text">
               <h3 class="black"> INTERESSE? FRAGEN? </h3>
-              <p> Einfach nachsehen, wann das Haus frei ist und direkt online Buchen. </p>
-              <p> Bei Fragen stehen dir Stephan & Lisa vom Haus Sonnenlehen gerne zur Verfügung. Per Telefon oder direkt übers Kontaktformular. </p>
+              <p> Einfach nachsehen, wann das Haus frei ist und per E-Mail oder Telefon buchen. </p>
+              <p> Bei Fragen stehen dir Stephan & Lisa vom Haus Sonnenlehen gerne zur Verfügung. Per Telefon oder E-Mail erreichbar. </p>
               <br>
               <br>
               <a href="/contact" class="button">ANFRAGEN</a>

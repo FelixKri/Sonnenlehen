@@ -11,12 +11,12 @@
       </p>
       <h3> SALON / HAUPTWONZIMMER </h3>
       <p>
-        Ob antik oder neu, traditionell oder modern, Deckenleisten sind eine Kunst, die eine Detailgenauigkeit erfordert. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra cursus quam eu eleifend. Duis volutpat accumsan odio volutpat congue.
+        Es gibt viele Möglichkeiten im Haus für Geselligkeit in größeren und kleineren Runden. Außerdem gibt es auch viele stille Ecken für Privatsphäre. Im Haus befinden sich mehrere kleine Salons und ein großes Wohnzimmer. Die Wohnzimmer sind mit modernen Flat-Screen TVs ausgestattet. 
       </p>
       <div class="img" id="living"></div>
       <h2> Küchen </h2>
       <p> 
-        Das Haus Sonnenlehen biete zwei voll ausgestattete Küchen. Die eine befindet sich im Erdgeschoss, die andere im zweiten Obergeschoss. 
+        Das Haus Sonnenlehen biete zwei voll ausgestattete Küchen. Die eine befindet sich im Erdgeschoss, die andere im zweiten Obergeschoss. Beide sind ideal geeignet um Mahlzeiten für viele Gäste zuzubereiten.
       </p>
       <h3> ERDGESCHOSSKÜCHE </h3>
       <p>
