@@ -6,7 +6,7 @@
     </p>
     <p>
       Telefon: +1 954 457-0308 oder +1 754 244-3552 <br>
-      E-Mail: contact@sonnenlehen.com <br> <br>
+      E-Mail: <a href="mailto:contact@sonnenlehen.com">contact@sonnenlehen.com</a><br> <br>
       Adresse: <br>
       Haus Sonnenlehen <br>
       Wolfschwangweg 44 <br>

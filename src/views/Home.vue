@@ -12,24 +12,25 @@
             <div class="left-text">
               <h4> CHARMANT & ELEGANT </h4>
               <div class="text-block">
-                <h2> 800 Jahre Geschichte in Großgmain </h2>
-                <p> Das Haus Sonnenlehen ist schon über 800 Jahre alt. In Jeder Ecke warten Überraschungen & Geschichten. Stöbern Sie in den alten Bücherregalen, wo sich noch Erstausgaben aus 1850 finden lassen, oder schlendern Sie durch den Garten, welcher fast die Größe eines Fußballfeldes misst und mit Statuen und alten Bäumen geschmückt ist! </p>
-                <p> Das Haus wurde, so sagt man, von der Gattin des Grafen Plain, welcher in der Plainburg über Großgmain herrschte, erbaut. Als dieser aus Zorn ihr Kruzifix ins Tal warf, schwor sie ihm, dort wo das Kruzifix landen würde ein Haus für die Pilger zu erbauen. Dieses Haus heißt heute Sonnenlehen.  </p>
-                <p> Wir sehen uns daher auch nicht als Besitzer, sondern Hüter des Hauses Sonnenlehen, und freuen uns daher immer wieder über Gäste und Urlauber, welche die Tradition des Pilger-Hauses weiterführen. </p>
+                <h2>Willkommen im Haus Sonnenlehen </h2>
+                <p>Das Haus Sonnenlehen ist ein 800 Jahre altes Haus, zur Buchung verfügbar für Ihren nächsten Urlaub! Kommen Sie zu uns und erleben Sie Salzburg, Bad Reichenhall, Berchtesgaden und alle seine umliegenden Berge und Seen in vollen Zügen! Kommen Sie zu uns im Sommer zu den Salzburger Musik-Festivals und zum Wandern, oder im Winter für Skiabenteuer der extraklasse! Sie können täglich, wöchentlich oder monatlich buchen!</p>
+                <h3 class="black">11 Schlafzimmer, 5 Bäder. Platz für 24 Personen, auf 3 Stöcken.</h3>
+                <p>Das Grundstück ist nur 15 Kilometer Salzburg, 6 Kilometer von Bad Reichenhall und 20 Kilometer von Berchtsgaden entfernt. Das Haus ist über 800 Jahre alt und mit Antiquitäten und Geschichte gefüllt. Auf dem ganzen Grundstück steht gratis Internet zur verfügung! In den 3 Wohnzimmern stehen Flat-Screens, Musikanlagen und DVD Player zur Verfügung und der Garten hat fast die Größe eines Fußballfeldes! Der dritte Stock kommt mit einem Jacuzzi und einer Regendusche.</p>
+                <h3 class="black">Im Winter</h3>
+                <p>Im Winter kann man mit 40 Minuten Fahrzeit auf diversen Skigebieten, unter anderem den Olympischen Pisten oder den langen Abfahrten des Snow-Space in Flachau! Bob- oder Schlittenfahren ist in direkter Nähe Möglich, und ein Tripp zu den Salzburger Wintermärkten zahlt sich auch immer aus!</p>
+                <h3 class="black">Im Sommer</h3>
+                <p>Im Sommer kann man auf einem der hunderten Wanderwege und Mountainbiketrails die Welt um sich herum vergessen, im Olympischen Pool ein Paar Bahnen schwimmen, oder auf einem der zahlreichen Balkons des Hauses den Tag genießen. </p>
+                <p>Wenn Sie mehr über das Haus erfahren wollen, können sie das unter der <a href="/house">Das Haus</a> Sektion!</p>
               </div>
               <div class="text-block">
-                <h2> Das Ideale Ferienhaus, übers ganze Jahr </h2>
-                <p>Das Haus Sonnenlehen ist das ideale Ferienhaus, übers ganze Jahr. In den umliegenden Bergen liegen hunderte Kilometer atemberaubender Wanderwege und Klettersteige. Für eine Abkühlung  nach den Aktivitäten im Sommer sorgt das Großgmainer Schwimmbad, welches nur 100 Meter vom Haus Sonnenlehen entfernt liegt! </p>
-                <p>Auch als Unterkunft im Skiurlaub eignet sich das Haus Sonnenlehen perfekt. Skigebiete wie Lofer und Berchtesgaden sind nur eine kurze Autofahrt entfernt, und mit nur 40 Minuten Fahrt erreicht man sogar die Olympischen Pisten in [wo?].</p>
+                <h4>Die Natur genießen</h4>
+                <h2>Berge, Seen, Wälder</h2>
+                <p>Rund um Großgmain sammeln sich die schönsten Berge, Wanderrouten und Badeseen der Umgebung! Mehrere hundert Wanderkilometer und Mountainbiketrails, sowohl für solche, die die Herausforderung suchen, als auch für jene, die eher auf den Genuß und die Entspannung aus sind. Fragen Sie uns nach Wander- und Mountainbike runden, oder besuchen sie einen der vielen Seen rund um Großgmain. Mehr können Sie <a href="sights">HIER</a> erfahren!</p>
               </div>
-              <div class="text-block">
-                <h2> CO2 Neutral & Umweltbewusst </h2>
-                <p>Der Geringe Fußabdruck des Haus Sonnenlehen ist etwas auf das wir sehr stolz sind. Wir schöpfen über 90% unserer Energie für das Haus aus Alternativen Quellen, zusätzlich Pflanzen wir auch viele Bäume um die Luftbelastung weiter zu verringern. Für das Heizen im Haus werden keine Fossilen Brennstoffe verwendet!</p>
-                </div>
             </div>
             <div class="right-text">
               <h3 class="black"> INTERESSE? FRAGEN? </h3>
-              <p> Einfach nachsehen, wann das Haus frei ist und per E-Mail oder Telefon buchen. </p>
+              <p> Einfach <a href="/availiability">nachsehen</a>, wann das Haus frei ist und per E-Mail oder Telefon buchen. </p>
               <p> Bei Fragen stehen dir Stephan & Lisa vom Haus Sonnenlehen gerne zur Verfügung. Per Telefon oder E-Mail erreichbar. </p>
               <br>
               <br>
@@ -39,6 +40,9 @@
               <br>
               <h3 class="black"> Internet & WIFI </h3>
               <p> Das Haus Sonnenlehen verfügt im gesamten Anwesen über Kostenloses Internet & WIFI </p>
+              <h3 class="black"> CO2 Neutral & Umweltbewusst </h3>
+                <p>Der Geringe Fußabdruck des Haus Sonnenlehen ist etwas auf das wir sehr stolz sind. Wir schöpfen über 90% unserer Energie für das Haus aus Alternativen Quellen, zusätzlich Pflanzen wir auch viele Bäume um die Luftbelastung weiter zu verringern. Für das Heizen im Haus werden keine Fossilen Brennstoffe verwendet!</p>
+              
             </div>
           </div>
       </section>
@@ -48,10 +52,24 @@
       <section class="text">
         <div class="container">
           <div class="left-text reviews">
+            <div class="text-block">
+                <h2>Unsere Empfehlungen</h2>
+                <h3 class="black" style="font-size: 2em;">Restaurants:</h3>
+                <h4 class="bold imp">Gasthof Steinerwirt</h4>
+                <img src="@/assets/steinerwirt.jpg" alt="" class="img">
+                <p style="">Der Gasthof Steinerwirt ist ein klassisches Österreichisches Wirtshaus mit entsprechenden Speisen und liegt nahe am Untersberg. Das innere spiegelt ein rustikales, rurales Bauernhaus wieder. Der Steinerwirt wurde 2009 sogar im Michelin Guide erwähnt! Es werden lokale Delikatessen von der Hauseigenen Tierhaltung und der Region serviert!</p>
+                <h4 class="bold imp">Hotel Vötterl</h4>
+                <img src="@/assets/voetterl.jpg" alt="" class="img">
+                <p style="">Das Hotel Vötterl ist eines der größten Hotels im Großgmain. Das Hotel hat ein gutes, typisch österreichisches Angebot und meistens bis spätabends geöffnet.</p>
+              </div>
             <h2 style="margin: 0;"> Erfahrungsberichte </h2>
             <p>“The whole experience was really joyful…….relaxing and my kids loved the big yard…..bring confortable shoes and the camera to take beautiful pictures.”</p>
+            <hr>
             <p> “Quiet, relaxing mountain setting. House old and charming, but had everything we needed… Able to walk to the local bakery and market, while the kids were hiking on the mountain ruins. Ate dinner at the nature restaurant and preserve on the hill. Kids fed the deer and rabbits. A 20 minute hike from the house. The food is not the best, but the experience and view are amazing!!! An easy 20 minute drive into Salzburg and down to the Salt Mines! Overall, a great weekend!!”</p>
+            <hr>
             <p> “My family and friends have now stayed at Haus Sonnenlehen twice and are currently planning our third visit. It is the most amazing venue and instantly becomes a home from home. The owners are welcoming, friendly and so very helpful. I cannot recommend house and the location highly enough.”</p>
+            <h2 style="margin: 0;"> Unsere Empfehlungen</h2>
+            <p> Wenn Sie nach dem geeigneten Bäcker, einem guten Wirt, Aktivitäten, Wanderrouten oder generelle Tipps für ihre Reise suchen, empfehlen wir Ihnen gerne unsere persönlichen Favoriten. Sie können uns gerne persönlich Fragen oder die Liste unserer Favoriten <a href="/empfehlungen">HIER </a> ansehen.</p>
           </div>
           <div class="right-text bottom">
             <h2 style="margin: 0;"> Über Großgmain </h2>
@@ -61,10 +79,6 @@
             <a class="button" href="/pictures"> FOTOGALERIE </a>
             <hr>
             <h2> Über uns </h2>
-            <p class="bold"> MEIN NAME IST STEPHAN </p>
-            <p>Hier könnte man etwas über die Vermieter selber schreiben, und vielleicht ein Foto einfügen. Das ist nur ein Vorschlag. Der Rest ist Platzhaltertext.</p>
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <hr>
           </div>
         </div>
       </section>
@@ -82,6 +96,19 @@
 
   <style>
 
+    .imp{
+      font-size: 1.5em !important;
+    } 
+
+    .img{
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+    }
+
+    .black{
+      color: black !important;
+    }
     nav .logo-wrapper{
       color: white;
     }
@@ -204,7 +231,7 @@
       }
     }
 
-    @media only screen and (max-width: 800px){
+    @media only screen and (max-width: 1160px){
       .main-heading{
         font-size: 2.4em !important;
       }

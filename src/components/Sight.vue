@@ -25,6 +25,7 @@
         min-height: 400px;
         width: 55%;
         float: left;
+        object-fit: cover;
     }
 
     .sight p{
