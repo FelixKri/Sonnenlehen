@@ -1,59 +1,69 @@
 <template>
   <div class="about">
+    <div class="container clearfix">
+      <h4 style="margin: 0; font-size: 1.5em;">Das</h4>
+      <h1 style="margin: 0; font-size: 3em;">Haus Sonnenlehen</h1>
+      <hr>
+      <div class="left-block">
+        <h2> Wohnzimmer </h2>
+        <p>
+          Das Haus verfügt über mehrere Wohnzimmer in unterschiedlicher Größe. Sowohl für große Gesellschaften oder kleine Gruppen lässt sich ein Ort zum zusammenkommen finden. Außerdem gibt es im ganzen Haus viele kleine private Ecken für mehr Privatsphäre 
+        </p>
+        <h3> SALON / HAUPTWONZIMMER </h3>
+        <p>
+          Es gibt viele Möglichkeiten im Haus für Geselligkeit in größeren und kleineren Runden. Außerdem gibt es auch viele stille Ecken für Privatsphäre. Im Haus befinden sich mehrere kleine Salons und ein großes Wohnzimmer. Die Wohnzimmer sind mit modernen Flat-Screen TVs ausgestattet. 
+        </p>
+        <div class="img" id="living"></div>
+        <h2> Küchen </h2>
+        <p> 
+          Das Haus Sonnenlehen biete zwei voll ausgestattete Küchen. Die eine befindet sich im Erdgeschoss, die andere im zweiten Obergeschoss. Beide sind ideal geeignet um Mahlzeiten für viele Gäste zuzubereiten.
+        </p>
+        <h3> ERDGESCHOSSKÜCHE </h3>
+        <p>
+          Die Küche im Erdgeschoss ist die Hauptküche für das Haus Sonnenlehen. Sie besitzt eine Kochinsel, Geschirrspüler, Waschmaschine, Kühlschränke,  Kochutensilien und alles was man sonst noch benötigt um die perfekten Mahlzeiten zu kreieren. Durch ihre Größe ist auch das zubereiten für große Gruppen kein Problem.
+        </p>
+        <h3> KÜCHE IM OBERGESCHOSS </h3>
+        <p>
+          Die Küche im Obergeschoss ist komplett neu, mit Esstisch und Bürofläche. Zur Ausstattung gehören auch ein Herd mit Ceran-Kochfeld, neuer Kühlschrank, Gefrierschrank, Backofen und Mikrowelle. 
+        </p>
+        <div class="img" id="kitchen"></div>
+      </div>
+      <div class="right-block">
+        <h2> Badezimmer & WC's </h2>
+        <p>
+          Das Haus verfügt über 5 vollausgetattete Bäder. Das Bad im 3. Stock beinhaltet sogar einen Jacuzzi und eine Regendusche und wurde erst vor kurzem renoviert. Alle Bäder und Toiletten sind in einem hygienischen und reinlichen Zustand.
+        </p>
+        <div class="img" id="bath"></div>
+        <h2> Schlafzimmer </h2>
+        <p>
+          12 typisch-österreichisch ausgestattete Doppelschlafzimmer stehen im Haus zur Verfügung, mit Platz für bis zu 24 Personen. Da das Haus bereits 800 Jahre alt ist sehen alle Schlafzimmer ein wenig anders aus, jedoch verfügt jedes Bett über eine hochwertige Matratze.
+        </p>
+        <div class="img" id="bed"></div>
+        <h2> Bar </h2>
+        <p>
+          Neben dem Wohnzimmer im Erdgeschoss befindet sich auch eine kleine gemütliche Bar, in der allerlei Spiritousen und Getränke zum freien Genuss vorhanden sind!
+        </p>
+        <div class="img" id="bar"></div><br>
+        <div class="img" id="bar2"></div>
+      </div>
+    </div>
     <div class="container">
-    <h4 style="margin: 0; font-size: 1.5em;">Das</h4>
-    <h1 style="margin: 0; font-size: 3em;">Haus Sonnenlehen</h1>
-    <hr>
-    <div class="left-block">
-      <h2> Wohnzimmer </h2>
-      <p>
-        Das Haus verfügt über mehrere Wohnzimmer in unterschiedlicher Größe. Sowohl für große Gesellschaften oder kleine Gruppen lässt sich ein Ort zum zusammenkommen finden. Außerdem gibt es im ganzen Haus viele kleine private Ecken für mehr Privatsphäre 
-      </p>
-      <h3> SALON / HAUPTWONZIMMER </h3>
-      <p>
-        Es gibt viele Möglichkeiten im Haus für Geselligkeit in größeren und kleineren Runden. Außerdem gibt es auch viele stille Ecken für Privatsphäre. Im Haus befinden sich mehrere kleine Salons und ein großes Wohnzimmer. Die Wohnzimmer sind mit modernen Flat-Screen TVs ausgestattet. 
-      </p>
-      <div class="img" id="living"></div>
-      <h2> Küchen </h2>
-      <p> 
-        Das Haus Sonnenlehen biete zwei voll ausgestattete Küchen. Die eine befindet sich im Erdgeschoss, die andere im zweiten Obergeschoss. Beide sind ideal geeignet um Mahlzeiten für viele Gäste zuzubereiten.
-      </p>
-      <h3> ERDGESCHOSSKÜCHE </h3>
-      <p>
-        Die Küche im Erdgeschoss ist die Hauptküche für das Haus Sonnenlehen. Sie besitzt eine Kochinsel, Geschirrspüler, Waschmaschine, Kühlschränke,  Kochutensilien und alles was man sonst noch benötigt um die perfekten Mahlzeiten zu kreieren. Durch ihre Größe ist auch das zubereiten für große Gruppen kein Problem.
-      </p>
-      <h3> KÜCHE IM OBERGESCHOSS </h3>
-      <p>
-        Die Küche im Obergeschoss ist komplett neu, mit Esstisch und Bürofläche. Zur Ausstattung gehören auch ein Herd mit Ceran-Kochfeld, neuer Kühlschrank, Gefrierschrank, Backofen und Mikrowelle. 
-      </p>
-      <div class="img" id="kitchen"></div>
-    </div>
-    <div class="right-block">
-      <h2> Badezimmer & WC's </h2>
-      <p>
-        Von Toiletten bis hin zu Wasserhähnen kann ich das richtige Mobiliar für Ihr Bad oder Ihre Küche installieren. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra cursus quam eu eleifend. Duis volutpat accumsan odio volutpat congue.
-      </p>
-      <div class="img" id="bath"></div>
-      <h2> Schlafzimmer </h2>
-      <p>
-        Von Toiletten bis hin zu Wasserhähnen kann ich das richtige Mobiliar für Ihr Bad oder Ihre Küche installieren. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra cursus quam eu eleifend. Duis volutpat accumsan odio volutpat congue.
-      </p>
-      <p>
-        Eine detaillierte Beschreibung zu allen Schlafzimmern mit Bildern können Sie sich hier ansehen.
-      </p>
-      <div class="img" id="bed"></div>
-      <h2> Bar </h2>
-      <p>
-        Neben dem Wohnzimmer befindet sich auch eine kleine gemütliche Bar, in der allerlei Spiritousen und Getränke zum freien Genuss vorhanden sind!
-      </p>
-      <div class="img" id="bar"></div><br>
-      <div class="img" id="bar2"></div>
-    </div>
-    
+      <h3 style="text-align: center;">Mehr Fotos können Sie in der <a href="/gallery">Fotogalerie</a> einsehen.</h3>
     </div>
   </div>
 </template>
 <style>
+
+  .clearfix {
+    overflow: auto;
+  }
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
   nav .logo-wrapper{
     color: black;
   }

@@ -14,6 +14,7 @@
               <div class="text-block">
                 <h2>Willkommen im Haus Sonnenlehen </h2>
                 <p>Das Haus Sonnenlehen ist ein 800 Jahre altes Haus, zur Buchung verfügbar für Ihren nächsten Urlaub! Kommen Sie zu uns und erleben Sie Salzburg, Bad Reichenhall, Berchtesgaden und alle seine umliegenden Berge und Seen in vollen Zügen! Kommen Sie zu uns im Sommer zu den Salzburger Musik-Festivals und zum Wandern, oder im Winter für Skiabenteuer der extraklasse! Sie können täglich, wöchentlich oder monatlich buchen!</p>
+                <Slideshow></Slideshow>
                 <h3 class="black">11 Schlafzimmer, 5 Bäder. Platz für 24 Personen, auf 3 Stöcken.</h3>
                 <p>Das Grundstück ist nur 15 Kilometer Salzburg, 6 Kilometer von Bad Reichenhall und 20 Kilometer von Berchtsgaden entfernt. Das Haus ist über 800 Jahre alt und mit Antiquitäten und Geschichte gefüllt. Auf dem ganzen Grundstück steht gratis Internet zur verfügung! In den 3 Wohnzimmern stehen Flat-Screens, Musikanlagen und DVD Player zur Verfügung und der Garten hat fast die Größe eines Fußballfeldes! Der dritte Stock kommt mit einem Jacuzzi und einer Regendusche.</p>
                 <h3 class="black">Im Winter</h3>
@@ -86,11 +87,13 @@
   </template>
 
   <script>
+  import Slideshow from '../components/Slideshow.vue';
 
   export default {
-    name: 'home',
     components: {
-    }
+      Slideshow,
+    },
+    name: 'home',
   }
   </script>
 
