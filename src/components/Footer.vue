@@ -2,7 +2,7 @@
    <footer>
     <div class="container">
         <h1> Bereit zu buchen? </h1>
-        <a href="/contact" class="button">Zur Buchung</a>
+        <a href="https://www.homeaway.at/ferienwohnung-ferienhaus/p181656?noDates=true" class="button">Zur Buchung</a>
         <br>
         <br>
         <br>

@@ -29,6 +29,11 @@ export default {
   cursor: pointer;
 }
 
+small{
+  
+    font-family: 'Open Sans', sans-serif;
+}
+
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */

@@ -62,22 +62,25 @@
                 <h4 class="bold imp">Hotel Vötterl</h4>
                 <img src="@/assets/voetterl.jpg" alt="" class="img">
                 <p style="">Das Hotel Vötterl ist eines der größten Hotels im Großgmain. Das Hotel hat ein gutes, typisch österreichisches Angebot und meistens bis spätabends geöffnet.</p>
+                <p> Wenn Sie nach dem geeigneten Bäcker, einem guten Wirt, Aktivitäten, Wanderrouten oder generelle Tipps für ihre Reise suchen, empfehlen wir Ihnen gerne unsere persönlichen Favoriten. Sie können uns gerne persönlich Fragen oder die Liste unserer Favoriten <a href="/empfehlungen">HIER </a> ansehen.</p>
               </div>
             <h2 style="margin: 0;"> Erfahrungsberichte </h2>
-            <p>“The whole experience was really joyful…….relaxing and my kids loved the big yard…..bring confortable shoes and the camera to take beautiful pictures.”</p>
+            <small class="bold">Die Berichte stammen von unserer Homeaway Seite. Mehr davon kann man <a href="https://www.homeaway.at/ferienwohnung-ferienhaus/p181656?noDates=true">HIER</a> lesen.</small>
+            <h3 class="black">Uriges Haus mit Charme</h3>
+            <p style="margin: 0.5em 0;">Wir buchten das Haus Sonnenlehen für ein verlängertes Wochenende für insgesamt 19 Personen (2 Babys). Das Haus ist riesengroß und sehr gut bestückt. Der Garten ist ein Traum und die große Bauerstube mit Kamin lädt zu gemütlichen Stunden ein. Das Haus ist sehr urig, mit vielen entzückenden Datails und auch für die Kleinsten war alles vorhanden (Hochstuhl, Bettchen). Es erstreckt sich über Erdgeschoss und 2 Stockwerke) und bietet ausreichend Platz für fast 30 Menschen. Auch die Umgebung das Haus ist sehr ansprechend und toll zum Spazieren. Die Stadt Salzburg ist mit dem Auto in ca 15 Minuten erreichbar. Wir hatten ein sehr angenehmes Wochenende und können uns gut vorstellen wiederzukommen.</p>
             <hr>
-            <p> “Quiet, relaxing mountain setting. House old and charming, but had everything we needed… Able to walk to the local bakery and market, while the kids were hiking on the mountain ruins. Ate dinner at the nature restaurant and preserve on the hill. Kids fed the deer and rabbits. A 20 minute hike from the house. The food is not the best, but the experience and view are amazing!!! An easy 20 minute drive into Salzburg and down to the Salt Mines! Overall, a great weekend!!”</p>
+            <h3 class="black">Super schönes Haus</h3>
+            <p style="margin: 0.5em 0;">Wir waren eine Gruppe von 24 Leuten im Alter von 18-25 Jahren und hatten unglaublich viel Spaß in dem alten Haus. Es gibt sehr viel zu entdecken und die Ausstattung ist super.</p>
             <hr>
-            <p> “My family and friends have now stayed at Haus Sonnenlehen twice and are currently planning our third visit. It is the most amazing venue and instantly becomes a home from home. The owners are welcoming, friendly and so very helpful. I cannot recommend house and the location highly enough.”</p>
-            <h2 style="margin: 0;"> Unsere Empfehlungen</h2>
-            <p> Wenn Sie nach dem geeigneten Bäcker, einem guten Wirt, Aktivitäten, Wanderrouten oder generelle Tipps für ihre Reise suchen, empfehlen wir Ihnen gerne unsere persönlichen Favoriten. Sie können uns gerne persönlich Fragen oder die Liste unserer Favoriten <a href="/empfehlungen">HIER </a> ansehen.</p>
+            <h3 class="black">Heimelige Atmosphäre</h3>
+            <p style="margin: 0.5em 0;">Wir wurden wohlwollend und großzügig betreut obwohl wir mit 13 Kindern, 15 Erwachsenen und 4 Hunden dort wohnten, hatten wir nie das Gefühl, zu stören. Das ehrwürdig alte Haus bietet heimelige Atmosphäre,. Lassim, der Betreuer des Hauses; ist sehr freundlich und hilfsbereit. Wir haben uns alle sehr wohl gefühlt.</p>
           </div>
           <div class="right-text bottom">
             <h2 style="margin: 0;"> Über Großgmain </h2>
             <p> Das Dorf Gmain existiert seit mindestens 900 vor Chr. Das Dorf wurde im Laufe des 10. Jahrhunderts zum Wallfahrtsort. ­Großgmain hat einen berühmten, wenn auch anonymen Maler hervorgebracht, den “Meister von Großgmain” – Werke des spätgotischen Malers (um 1499) sind in der Dorfkirche erhalten. Damals kamen Pilger nach Gmain, um geheilt zu werden. Es wird erzählt, dass sie nach ihrem Besuch der Marien-Wallfahrtskirche ihre Krücken in der Kirche zurückließen und sich zu Fuß auf den Heimweg machten. Es heißt, dass der letzte Haufen Krücken erst einige Zeit nach dem 1. Weltkrieg vollständig entfernt wurde.  </p>
             <p class="bold"> SIE WOLLEN MEHR VOM HAUS SEHEN? HIER KOMMEN SIE ZUR FOTOGALERIE </p>
             <br>
-            <a class="button" href="/pictures"> FOTOGALERIE </a>
+            <a class="button" href="/gallery"> FOTOGALERIE </a>
             <hr>
             <h2> Über uns </h2>
           </div>
